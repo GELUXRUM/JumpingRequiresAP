@@ -1,0 +1,13 @@
+{
+  "name": "JumpingRequiresAP",
+  "version-string": "1.0.0",
+  "description": "F4SE plugin to make jumping reduce AP",
+  "homepage": "https://github.com/GELUXRUM/JumpingRequiresAP",
+  "license": "MIT",
+  "dependencies": [
+    "boost-stl-interfaces",
+    "fmt",
+    "mmio",
+    "spdlog"
+  ]
+}
